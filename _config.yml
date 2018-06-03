@@ -2,9 +2,9 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-title: 闫泽宇的小花园 #网站标题
+title: 翡翠梦境 #网站标题
 subtitle:   持之以恒、循序渐进  #网站副标题
-description:  记录生活、技术点滴  #网站描述
+description:  记录生活点滴  #网站描述
 author: 闫泽宇   #博主的名字
 language: zh-Hans  #网站使用的语言
 timezone:      #网站时区。Hexo 默认使用您电脑的时区
