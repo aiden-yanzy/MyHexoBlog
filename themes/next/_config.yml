@@ -89,7 +89,7 @@ menu:
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
 #菜单图标显示
@@ -119,7 +119,7 @@ scheme: Pisces
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 #社交账号
 social:
-  GitHub: https://github.com/yanzeyu9262 || github
+  GitHub: https://github.com/aiden-yanzy || github
   E-Mail: mailto:magic.yanzy@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
